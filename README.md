@@ -1,3 +1,8 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=600&pause=1000&color=F72F13&width=435&lines=Ol%C3%A1%2C+bem+vindo+ao+meu+github+S2)](https://git.io/typing-svg)
+
+
+
+
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/giovanni-santos-025425267/)
 
