@@ -15,3 +15,5 @@
 
 ## Linguagens mais usadas
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gimedeiros-77&theme=codeSTACKr&show_icons=true)
+
+![Snake animation](https://raw.githubusercontent.com/BruceCampos/BruceCampos/output/github-contribution-grid-snake-dark.svg)
