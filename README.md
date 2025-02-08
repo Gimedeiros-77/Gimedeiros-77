@@ -43,7 +43,7 @@ Sou um estudante de **Engenharia de Computação** apaixonado por tecnologia e d
 
 ## 🏆 Contribuições
 
-![Snake animation](https://raw.githubusercontent.com/Gimedeiros-77/Gimedeiros-77/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Gimedeiros-77/Gimedeiros-77/output/github-contribution-grid-snake-g.svg)
 
 ---
 
