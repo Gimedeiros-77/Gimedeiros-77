@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=600&pause=1000&color=F72F13&width=435&lines=Ol%C3%A1%2C+bem+vindo+ao+meu+github+S2)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=600&pause=1000&color=F72F13&width=435&lines=Ol%C3%A1%2C+bem+vindo+ao+meu+GitHub+S2)](https://git.io/typing-svg)
 
 
 
@@ -9,6 +9,7 @@
 
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gimedeiros-77&&theme=codeSTACKr&show_icons=true)
+<img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=Gimedeiros-77&theme=github">
 
 
 
