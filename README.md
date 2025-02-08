@@ -3,9 +3,20 @@
 ---
 
 ## 🚀 Sobre mim
-Sou um estudante de **Engenharia de Computação** apaixonado por tecnologia e desenvolvimento web. Atualmente, estou aprimorando minhas habilidades em **HTML, CSS, JavaScript e React.js** e já desenvolvi alguns projetos práticos, como um site para uma hamburgueria fictícia e uma lista de tarefas.
+Sou um estudante de **Engenharia de Computação** apaixonado por tecnologia e desenvolvimento web. Atualmente, estou aprimorando minhas habilidades e já desenvolvi alguns projetos práticos, como um site para uma hamburgueria fictícia e uma lista de tarefas.
 
 📌 Sempre buscando aprender e evoluir no mundo da programação!
+
+---
+
+## 💻 Tecnologias que estou estudando
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+</div>
 
 ---
 
