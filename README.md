@@ -1,3 +1,5 @@
+<div style="background-color:black; color:lime; padding:20px;">
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F72F13&width=435&lines=Ol%C3%A1%2C+bem-vindo+ao+meu+GitHub!+%F0%9F%91%8B)
 
 ---
@@ -11,11 +13,18 @@ Sou um estudante de **Engenharia de Computação** apaixonado por tecnologia e d
 
 ## 💻 Tecnologias que estou estudando
 
+### 🎨 Front-End
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+</div>
+
+### ⚙️ Back-End
+<div align="center">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
 ---
@@ -32,7 +41,7 @@ Sou um estudante de **Engenharia de Computação** apaixonado por tecnologia e d
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gimedeiros-77&show_icons=true&theme=codeSTACKr&hide_border=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gimedeiros-77&theme=codeSTACKr&hide_border=true" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gimedeiros-77&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&custom_title=Últimos 3 meses&date_range=3m" alt="GitHub Últimos 3 Meses" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gimedeiros-77&theme=codeSTACKr&hide_border=true&months=3" alt="GitHub Últimos 3 Meses" />
 </div>
 
 ---
@@ -60,3 +69,5 @@ Sou um estudante de **Engenharia de Computação** apaixonado por tecnologia e d
 ---
 
 ✨ _Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e contribuir._ 🚀
+
+</div>
