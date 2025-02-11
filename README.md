@@ -32,6 +32,7 @@ Sou um estudante de **Engenharia de Computação** apaixonado por tecnologia e d
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gimedeiros-77&show_icons=true&theme=codeSTACKr&hide_border=true" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gimedeiros-77&theme=codeSTACKr&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gimedeiros-77&show_icons=true&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&custom_title=Últimos 3 meses&date_range=3m" alt="GitHub Últimos 3 Meses" />
 </div>
 
 ---
