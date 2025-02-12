@@ -5,10 +5,9 @@
 ---
 
 ## 🚀 Sobre mim
-Sou um estudante de **Engenharia de Computação** apaixonado por tecnologia e desenvolvimento web. Atualmente, estou aprimorando minhas habilidades e já desenvolvi alguns projetos práticos, como um site para uma hamburgueria fictícia e uma lista de tarefas.
+🎓 Estudante de Engenharia de Computação apaixonado por tecnologia e desenvolvimento web. Atualmente, estou aprimorando minhas habilidades e adquirindo experiência prática por meio de projetos reais. Já desenvolvi aplicações como um site para uma hamburgueria fictícia e uma lista de tarefas, sempre focando em boas práticas e usabilidade.
 
-📌 Sempre buscando aprender e evoluir no mundo da programação!
-
+📌 Comprometido com a evolução contínua no mundo da programação, busco constantemente aprender novas tecnologias e aprimorar minhas competências para enfrentar desafios cada vez mais complexos.
 ---
 
 ## 💻 Tecnologias que estou estudando
