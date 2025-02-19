@@ -1,6 +1,6 @@
 <div style="background-color:black; color:lime; padding:20px;">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F72F13&width=435&lines=Ol%C3%A1%2C+bem-vindo+ao+meu+GitHub!+%F0%9F%91%8B)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=A020F0&width=435&lines=Ol%C3%A1%2C+bem-vindo+ao+meu+GitHub!+%F0%9F%91%8B)
 
 ---
 
