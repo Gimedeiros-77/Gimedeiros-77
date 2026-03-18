@@ -75,29 +75,13 @@ const giovanni = {
 
 ---
 
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gimedeiros-77&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies"/>
-</div>
-
----
-
 ## 📈 Atividade
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gimedeiros-77&theme=tokyo-night&bg_color=0d1117&color=9d8fff&line=9d8fff&point=ff6e6e&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
 
----
 
-## 🐍 Contribuições
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Gimedeiros-77/Gimedeiros-77/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</div>
-
----
 
 <div align="center">
 
