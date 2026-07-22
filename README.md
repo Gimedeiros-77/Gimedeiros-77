@@ -53,18 +53,21 @@
 
 <br/>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Gimedeiros-77&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d8fff&icon_color=9d8fff&text_color=c9d1d9&border_radius=12&cache_seconds=1800" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gimedeiros-77&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9d8fff&text_color=c9d1d9&border_radius=12&cache_seconds=1800" height="165" alt="Top Languages" />
-
-</div>
+## 🔥 Streak de contribuições
 
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gimedeiros-77&theme=tokyonight&hide_border=true&background=0d1117&ring=9d8fff&fire=ff6e6e&currStreakLabel=9d8fff&border_radius=12" alt="GitHub Streak" width="70%" />
+
+</div>
+
+<br/>
+
+## 🏆 Troféus
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Gimedeiros-77&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
 
 </div>
 
