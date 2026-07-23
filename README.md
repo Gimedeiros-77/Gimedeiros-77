@@ -1,5 +1,6 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Giovanni%20Santos&fontSize=48&fontColor=e0d7ff&fontAlignY=38&desc=Analista%20de%20Dados%20Jr%2FPleno%20%7C%20BI%20%26%20Analytics&descAlignY=60&descSize=16&descColor=9d8fff" width="100%" alt="banner" />
+<h1>Giovanni Santos</h1>
+<p>Analista de Dados Jr/Pleno · BI &amp; Analytics · Power BI · SQL · Python</p>
 <a href="https://www.linkedin.com/in/giovannisantos-025425267/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Gimedeiros-77"><img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 <img src="https://komarev.com/ghpvc/?username=Gimedeiros-77&color=9d8fff&style=flat-square&label=Visitas" alt="visitor count" />
@@ -99,7 +100,6 @@
 </div>
 <br/>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&fontColor=e0d7ff" width="100%" alt="footer" />
 <i>✨ Obrigado por visitar! Sinta-se à vontade para explorar meus repositórios. 🚀</i>
  
 </div>
